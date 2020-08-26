@@ -1,8 +1,8 @@
 # Write your code here
 count = 11
 exit_number = 0 
-while count < = 11 && count != exit_number do 
+while count <= 11 && count != exit_number do 
   puts #{count}
-  count = count -= 1 
+  count -= 1 
 end
   puts "Happy New Year!"
