@@ -2,7 +2,6 @@
 count = 11
 exit_number = 0 
 while count <= 11 && count != exit_number do 
-  puts #{count}
-  count -= 1 
+  puts count -= 1 
 end
   puts "Happy New Year!"
